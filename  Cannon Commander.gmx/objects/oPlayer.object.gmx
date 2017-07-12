@@ -28,6 +28,7 @@
             <string>playerHealth = 100;
 playerPower = 100;
 alarm[0] = 30;
+
 </string>
           </argument>
         </arguments>
