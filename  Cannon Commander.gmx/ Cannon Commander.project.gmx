@@ -7,9 +7,26 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\sWall</sprite>
+    <sprite>sprites\sPlayerTest</sprite>
+    <sprite>sprites\sEnemyTest</sprite>
+    <sprite>sprites\sGunButton</sprite>
+    <sprite>sprites\sGunWeapon</sprite>
+    <sprite>sprites\sGunFire</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\oPlayer</object>
+    <object>objects\oEnemy</object>
+    <object>objects\oGunButton</object>
+    <object>objects\oGunWeapon</object>
+    <object>objects\oSpawner</object>
+    <object>objects\oDrawStatus</object>
+    <object>objects\oGunFire</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\rGame</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
