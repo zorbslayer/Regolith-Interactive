@@ -25,8 +25,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>draw_healthbar(x,y,x+128,y-20,oPlayer.playerHealth,c_black,c_red,c_green,0,true,false);
-draw_healthbar(x,y-30,x+128,y-50,oPlayer.playerPower,c_black,c_aqua,c_blue,0,true,false);
+            <string>draw_healthbar(x,y,x+128,y-34,oPlayer.playerHealth,c_black,c_red,c_green,0,true,false);
+draw_healthbar(x,y-30,x+128,y-64,oPlayer.playerPower,c_black,c_aqua,c_blue,0,true,false);
 </string>
           </argument>
         </arguments>

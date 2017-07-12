@@ -9,7 +9,9 @@
     <sprite>sprites\sWall</sprite>
     <sprite>sprites\sPlayerTest</sprite>
     <sprite>sprites\sEnemyTest</sprite>
-    <sprite>sprites\sGun</sprite>
+    <sprite>sprites\sGunButton</sprite>
+    <sprite>sprites\sGunWeapon</sprite>
+    <sprite>sprites\sGunFire</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
