@@ -13,6 +13,18 @@
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\oPlayer</object>
+    <object>objects\oEnemy</object>
+    <object>objects\oGunButton</object>
+    <object>objects\oGunWeapon</object>
+    <object>objects\oSpawner</object>
+    <object>objects\oDrawStatus</object>
+    <object>objects\oGunFire</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\rGame</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
